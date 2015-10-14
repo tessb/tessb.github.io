@@ -2,6 +2,7 @@ body {
 background-color: black}
 
 h1, p {
-  color: gold;
+  color: tomato;
   font-family: arial;
+  font-weight: 80px;
 }
