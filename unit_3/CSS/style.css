@@ -1,0 +1,22 @@
+body{
+  background: url(images/image1.JPG);
+  background-size: ;
+  /*color: #FFCA23;*/
+  text-align: center;
+}
+
+h1{
+  color: #FFCA23;
+  font-family: Helvetica;
+  text-transform: uppercase;
+  font-size: 60px;
+}
+
+p{
+  color: #000;
+}
+
+#slogan{
+  font-style: italic;
+  font-size: 30px;
+}
