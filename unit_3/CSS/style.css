@@ -1,8 +1,9 @@
-body{
-  background: url(images/image1.JPG);
-  background-size: ;
+body {
+  background: url("../hunting.JPG");
+  background-size: scroll;
   /*color: #FFCA23;*/
   text-align: center;
+  /*background-position: center center;*/
 }
 
 h1{
@@ -10,13 +11,33 @@ h1{
   font-family: Helvetica;
   text-transform: uppercase;
   font-size: 60px;
+  background: rgba(255,255,255,.2);
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
 p{
   color: #000;
+  background: rgba(255,255,255,.5);
+}
+
+ul{
+  /*background: rgba(255,255,255,.2);*/
 }
 
 #slogan{
   font-style: italic;
   font-size: 30px;
+  margin-left: 300px;
+  margin-right: 300px;
+  /*  */
+}
+
+.content{
+  padding: 20px;
+  margin: 80px;
+  margin-left: 800px;
+  margin-right: 300px;
+  font-family: helvetica;
+  background: rgba(255,255,255,.5);
 }
