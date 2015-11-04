@@ -4,6 +4,7 @@ body {
   /*color: #FFCA23;*/
   text-align: center;
   /*background-position: center center;*/
+
 }
 
 h1{
@@ -19,6 +20,9 @@ h1{
 p{
   color: #000;
   background: rgba(255,255,255,.5);
+
+  /*font-size: 18px;
+  line-height: 28px;*/
 }
 
 ul{
@@ -27,7 +31,7 @@ ul{
 
 #slogan{
   font-style: italic;
-  font-size: 30px;
+  font-size: 35px;
   margin-left: 300px;
   margin-right: 300px;
   /*  */
@@ -35,9 +39,13 @@ ul{
 
 .content{
   padding: 20px;
-  margin: 80px;
+  /*margin: 2em;*/
   margin-left: 800px;
   margin-right: 300px;
-  font-family: helvetica;
+  font-family: times;
   background: rgba(255,255,255,.5);
+  font-style: serif;
+  font-size: 25px;
+  line-height: 2em;
+  list-style-type: none;
 }
