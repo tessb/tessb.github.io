@@ -1,20 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100);
 body {
-  background: url("../hunting.JPG");
+  /*background: url("../hunting.JPG");*/
   background-size: scroll;
   /*color: #FFCA23;*/
   text-align: center;
   /*background-position: center center;*/
+  background-color: #fff;
 
 }
 
 h1{
   color: #FFCA23;
   font-family: Helvetica;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-size: 60px;
   background: rgba(255,255,255,.2);
   margin-left: 300px;
   margin-right: 300px;
+  font-family: Lobster;
 }
 
 p{
@@ -30,7 +34,8 @@ ul{
 }
 
 #slogan{
-  font-style: italic;
+  /*font-style: italic;*/
+  font-family: 'Raleway', sans-serif;
   font-size: 35px;
   margin-left: 300px;
   margin-right: 300px;
@@ -48,4 +53,6 @@ ul{
   font-size: 25px;
   line-height: 2em;
   list-style-type: none;
+  font-family: 'Raleway', sans-serif;
+  /*font-weight: bold;*/
 }
