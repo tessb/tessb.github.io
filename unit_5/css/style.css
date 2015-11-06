@@ -110,3 +110,7 @@ nav{
   margin-bottom: 50px;
 }
 
+a{
+  color: white;
+  text-decoration: none;
+}
