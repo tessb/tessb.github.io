@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Lobster);
+/*@import url(https://fonts.googleapis.com/css?family=Lobster);*/
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100);
+@import url(https://fonts.googleapis.com/css?family=Chela+One);
 body {
   /*background: url("../hunting.JPG");*/
   background-size: scroll;
@@ -11,19 +12,20 @@ body {
 }
 
 h1{
-  color: #FFCA23;
+  color: #604848;
   font-family: Helvetica;
   /*text-transform: uppercase;*/
   font-size: 60px;
   background: rgba(255,255,255,.2);
   /*margin-left: 300px;
   margin-right: 300px;*/
-  font-family: Lobster;
+  font-family: Chela One;
+
 }
 
 p{
-  color: #000;
-  background: rgba(255,255,255,.5);
+  color: gold;
+  /*background: rgba(255,255,255,.5);*/
 
   /*font-size: 18px;
   line-height: 28px;*/
@@ -47,18 +49,20 @@ ul{
   /*margin: 2em;*/
   /*margin-left: 800px;
   margin-right: 300px;*/
-  font-family: times;
-  background: rgba(255,255,255,.5);
+  /*font-family: times;*/
+  /*background: rgba(255,255,255,.5);*/
   font-style: serif;
   font-size: 25px;
-  line-height: 2em;
+  /*line-height: 2em;*/
   list-style-type: none;
   font-family: 'Raleway', sans-serif;
   /*font-weight: bold;*/
+  color: gold;
 }
 
 #wrapper{
-  background-color: #660033;
+  /*background-color: #F0F0D8;*/
   width: 960px;
   margin: 0 auto;
+  border: 5px solid black;
 }
