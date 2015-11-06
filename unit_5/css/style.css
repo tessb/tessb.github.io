@@ -24,11 +24,11 @@ h1{
 }
 
 p{
-  color: gold;
+  color: ;
   /*background: rgba(255,255,255,.5);*/
 
-  /*font-size: 18px;
-  line-height: 28px;*/
+  font-size: 10px;
+  /*line-height: 28px;*/
 }
 
 ul{
@@ -38,7 +38,7 @@ ul{
 #slogan{
   /*font-style: italic;*/
   font-family: 'Raleway', sans-serif;
-  font-size: 35px;
+  font-size: 25px;
   /*margin-left: 300px;
   margin-right: 300px;*/
   /*  */
@@ -57,12 +57,12 @@ ul{
   list-style-type: none;
   font-family: 'Raleway', sans-serif;
   /*font-weight: bold;*/
-  color: gold;
+  color: black;
 }
 
 #wrapper{
   /*background-color: #F0F0D8;*/
-  width: 960px;
+  width: 1000px;
   margin: 0 auto;
-  border: 5px solid black;
+  border: 20px solid red;
 }
