@@ -52,7 +52,7 @@ nav{
 .content li{
   display: inline;
   background-color: #F65309;
-  padding: 20px;
+  padding: 10px;
   /*margin: 2em;*/
   /*margin-left: 800px;
   margin-right: 300px;*/
@@ -115,6 +115,9 @@ a{
   text-decoration: none;
 }
 
+a:hover {
+background-color: #000;
+}
 
 button{
   background-color: #09F6DC;
