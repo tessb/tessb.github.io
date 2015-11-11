@@ -1,6 +1,7 @@
 /*@import url(https://fonts.googleapis.com/css?family=Lobster);*/
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100);
 @import url(https://fonts.googleapis.com/css?family=Chela+One);
+
 body {
   /*background: url("../hunting.JPG");*/
   background-size: scroll;
@@ -9,10 +10,26 @@ body {
   /*background-position: center center;*/
   background-color: #fff;
   list-style-type: none;
-
-
 }
 
+#two-column{
+  background-color: #FFB7CF;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+#left{
+  background-color: #E582A2;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+#right{
+  background-color: #E55B88;
+  border: 1px black solid;
+  padding: 20px;
+}
+}
 h1{
   color: #A93500;
   font-family: Helvetica;
@@ -45,7 +62,7 @@ ul{
   margin-right: 300px;*/
   /*  */
 }
-nav{
+article{
   background-color: #F65309;
   padding: 15px 0 15px 0;
 }
@@ -83,9 +100,9 @@ nav{
   /*padding: 20px;*/
 }
 
-.rifle, .mountain, .deer {
+/*.rifle, .mountain, .deer {
   padding: 20px;
-}
+}*/
 
 #gear{
   /*margin-top: 30px;*/
@@ -100,7 +117,7 @@ nav{
   padding: 100px;
 }
 
-#my-photos{
+#right{
   /*padding-left: 0px;*/
   /*background-color: #F65309;*/
   /*padding:1px;*/
