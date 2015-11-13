@@ -8,9 +8,7 @@ h1{
   font-family: sans-serif;
   font-style: bold;
   font-size: 100px;
+  width: 20%;
+  margin: auto;
 }
 
-h1{
-  text-align: center;
-  padding-top: 20%;
-}
