@@ -1,14 +1,29 @@
-body{
-  background: url("paper.gif");
-  position: cover;
+#wrapper{
+  background: url("wokeup.jpg");
+  width: 45%;
+  margin: auto;
+  height: 500px;
+
 }
 
+/*#center{
+text-align: center;
+padding-top: 50%;
+}*/
+
 h1{
-  color: rgba(255,215,0,.5);
+  text-align: cetner;
+  /*color: rgba(255,215,0,.5);
   font-family: sans-serif;
   font-style: bold;
   font-size: 100px;
   width: 20%;
   margin: auto;
+
+  padding: 10px;*/
+  color: rgba(255,215,0,.8);
+  /*border: black solid 2px;*/
+  /*width: 20%;*/
 }
+</div>
 
