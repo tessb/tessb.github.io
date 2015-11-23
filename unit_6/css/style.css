@@ -161,6 +161,16 @@ button{
   #right {
     float: none;
   }
+
+  #right a{
+    margin: 2em;
+    color: black;
+  }
+
+  #right li{
+    background: none;
+  }
+
 }
 
 
